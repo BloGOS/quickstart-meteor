@@ -2,7 +2,7 @@
 
 Meteor는 풀스택프레임워크로써, 웹어플리케이션을 보다 쉽고 빠르게 만들게 도와줍니다. 자세한 사용법은 [Quickstart Overview 페이지]()를 참고하세요.
 
-![](https://raw.githubusercontent.com/KoreaHTML5/quickstart-meteor/master/sc_qs_metoer.png)
+![](https://raw.githubusercontent.com/KoreaHTML5/quickstart-meteor/master/sc_qs_meteor.png)
 
 # 빠르게 시작하기
 
